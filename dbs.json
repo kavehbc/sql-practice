@@ -1,0 +1,8 @@
+[
+  {
+    "db_name": "SQL Murder Mystery",
+    "db_file": "/data/sql-murder-mystery/sql-murder-mystery.db",
+    "md_file": "/data/sql-murder-mystery/main.md",
+    "ref_query": ""
+  }
+]
